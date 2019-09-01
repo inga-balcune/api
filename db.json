@@ -32,5 +32,5 @@
 }
 
 {
-  "1": [{"Name":"Lieserl Einstein","YearOfBirth":1902,"Mother":"Mileva Marić"},{"Name":"Hans Albert Einstein","YearOfBirth":1904,"Mother":"Mileva Marić"},{"Name":"Eduard \"Tete\" Einstein","YearOfBirth":1910,"Mother":"Mileva Marić"}]
+  1: [{"Name":"Lieserl Einstein","YearOfBirth":1902,"Mother":"Mileva Marić"},{"Name":"Hans Albert Einstein","YearOfBirth":1904,"Mother":"Mileva Marić"},{"Name":"Eduard \"Tete\" Einstein","YearOfBirth":1910,"Mother":"Mileva Marić"}]
 }
