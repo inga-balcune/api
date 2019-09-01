@@ -28,9 +28,7 @@
     "NumChildren":0,
     "Profession":"Geneticist"
     }
-  ]
-},
-{
+  ],
   "1": [
     {
       "Name":"Lieserl Einstein",
@@ -47,9 +45,7 @@
       "YearOfBirth":1910,
       "Mother":"Mileva Marić"
     }
-  ]
-},
-{
+  ],
   "2": [
     {
       "Name":"Robert Hawking",
@@ -66,9 +62,7 @@
       "YearOfBirth":1979,
       "Mother":"Jane Wilde Hawking"
     }
-  ]
-},
-{
+  ],
   "3": [
     {
       "Name":"Carl Feynman",
@@ -79,6 +73,7 @@
      "YearOfBirth":1968,
      "Mother":"Adopted"
     }
-  ]
+  ],
+  "4": []
 }
 
