@@ -1,0 +1,30 @@
+[
+  {
+    "Id":1,
+    "Name":"Albert Einstein",
+    "YearOfBirth":1879,
+    "NumChildren":3,
+    "Profession":"Theoretical physicist"
+    },
+  {
+    "Id":2,
+    "Name":"Stephen Hawking",
+    "YearOfBirth":1942,
+    "NumChildren":3,
+    "Profession":"Theoretical physicist"
+    },
+  {
+    "Id":3,
+    "Name":"Richard Phillips Feynman",
+    "YearOfBirth":1918,
+    "NumChildren":2,
+    "Profession":"Theoretical physicist"
+    },
+  {
+    "Id":4,
+    "Name":"Gregor Mendel",
+    "YearOfBirth":1822,
+    "NumChildren":0,
+    "Profession":"Geneticist"
+    }
+]
